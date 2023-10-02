@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="a5f6b6b3979131109d02fa5ef053af02" sys_domain="global" table="sys_app_module" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-09-22 16:31:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6df6b6b3979131109d02fa5ef053af03</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="sys_app_module" name="sys_app_module" sys_domain="global" view="9e76b273979131109d02fa5ef053afd2">a5f6b6b3979131109d02fa5ef053af02</sys_ui_form>
+            <sys_ui_section caption="NeedIt" display_value="NeedIt" name="sys_app_module" sys_domain="global" view="9e76b273979131109d02fa5ef053afd2">d27676b3979131109d02fa5ef053afb2</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-09-22 16:31:36</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-09-22 16:31:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>edf6beb3979131109d02fa5ef053af15</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="sys_app_module" name="sys_app_module" sys_domain="global" view="9e76b273979131109d02fa5ef053afd2">a5f6b6b3979131109d02fa5ef053af02</sys_ui_form>
+            <sys_ui_section caption="Gomez AppFilesLabExercise" display_value="Gomez AppFilesLabExercise" name="sys_app_module" sys_domain="global" view="9e76b273979131109d02fa5ef053afd2">65f6b6b3979131109d02fa5ef053af04</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-09-22 16:31:36</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>sys_app_module</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-09-22 16:31:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a5f6b6b3979131109d02fa5ef053af02</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>sys_app_module</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+            <sys_update_name>sys_ui_form_sections_a5f6b6b3979131109d02fa5ef053af02</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-09-22 16:31:36</sys_updated_on>
+            <sys_user/>
+            <view display_value="Gomez AppFilesLabExercise" name="gomez_appfileslabexercise">9e76b273979131109d02fa5ef053afd2</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

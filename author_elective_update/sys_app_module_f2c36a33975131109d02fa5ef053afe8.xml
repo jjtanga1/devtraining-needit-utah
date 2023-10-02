@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="NeedIt">65b2e6ff971131109d02fa5ef053af6f</application>
+        <assessment/>
+        <device_type/>
+        <filter table="x_58872_needit_needit">due_dateON2023-09-22@javascript:gs.dateGenerate('2023-09-22','start')@javascript:gs.dateGenerate('2023-09-22','end')^EQ<item endquery="false" field="due_date" goto="false" newquery="false" operator="ON" or="false" value="2023-09-22@javascript:gs.dateGenerate('2023-09-22','start')@javascript:gs.dateGenerate('2023-09-22','end')"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </filter>
+        <hint>ShowPastDueNeedItrecords</hint>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>NeedIts</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_58872_needit_needit</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles>x_58872_needit.needit_user</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-22 15:07:51</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>f2c36a33975131109d02fa5ef053afe8</sys_id>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_name>NeedIt</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_app_module_f2c36a33975131109d02fa5ef053afe8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-22 16:42:57</sys_updated_on>
+        <timeline_page/>
+        <title>NeedIt</title>
+        <uncancelable>false</uncancelable>
+        <view_name>Gomez AppFiles Lab Exercise</view_name>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>66c590761bab61986a85eb9b2d4bcb50</instance_id>
+        <instance_name>dev177992</instance_name>
+        <name>sys_app_module_f2c36a33975131109d02fa5ef053afe8</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="NeedIt">65b2e6ff971131109d02fa5ef053af6f</application><assessment/><device_type/><filter table="x_58872_needit_needit">due_dateON2023-09-22@javascript:gs.dateGenerate('2023-09-22','start')@javascript:gs.dateGenerate('2023-09-22','end')^EQ<item endquery="false" field="due_date" goto="false" newquery="false" operator="ON" or="false" value="2023-09-22@javascript:gs.dateGenerate('2023-09-22','start')@javascript:gs.dateGenerate('2023-09-22','end')"/><item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/></filter><hint>ShowPastDueNeedItrecords</hint><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>NeedIts</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_58872_needit_needit</name><order/><override_menu_roles>false</override_menu_roles><query/><report/><roles>x_58872_needit.needit_user</roles><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-09-22 15:07:51</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>f2c36a33975131109d02fa5ef053afe8</sys_id><sys_mod_count>5</sys_mod_count><sys_name>NeedIt</sys_name><sys_overrides/><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_app_module_f2c36a33975131109d02fa5ef053afe8</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-09-22 16:42:57</sys_updated_on><timeline_page/><title>NeedIt</title><uncancelable>false</uncancelable><view_name>Gomez AppFiles Lab Exercise</view_name><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>866190599</payload_hash>
+        <record_name>NeedIt</record_name>
+        <reverted_from/>
+        <source>0240aef7971131109d02fa5ef053afe3</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-22 16:42:57</sys_created_on>
+        <sys_id>fb897677979131109d02fa5ef053af8d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18abdc5e38b0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-22 16:42:57</sys_updated_on>
+        <type>Module</type>
+        <update_guid>f38976777f913110fb4060f1c49bcd8d</update_guid>
+        <update_guid_history>f38976777f913110fb4060f1c49bcd8d:866190599,ba37beb3389131100b6747347aee3e50:2057068637,35447233d8913110c778092d186bd0a6:-1429496445,7672fe7f3f513110990f17ac78ade2f1:-1062910960,153e2abb7c513110d0aca7500e52f7eb:-678624986,fac36a334e51311027853f00f316ede9:-1658624812</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="NeedIt">a5aaf6b7979131109d02fa5ef053aff7</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-22 16:47:43</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>26211f918e8249f499910d9015133aa1</sys_id>
+        <sys_metadata>f2c36a33975131109d02fa5ef053afe8</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>NeedIt</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_app_module_f2c36a33975131109d02fa5ef053afe8</sys_update_name>
+        <sys_update_version display_value="sys_app_module_f2c36a33975131109d02fa5ef053afe8">fb897677979131109d02fa5ef053af8d</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-22 16:47:43</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
